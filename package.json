@@ -1,0 +1,31 @@
+{
+  "name": "@agabhane/puppeteer-pending-requests",
+  "version": "1.0.0",
+  "description": "Wait for pending requests to finish in puppeteer",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc -w",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agabhane/puppeteer-pending-requests.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "pendingrequest",
+    "request",
+    "pendingxhr",
+    "xhr"
+  ],
+  "author": "ashishgabhane1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agabhane/puppeteer-pending-requests/issues"
+  },
+  "homepage": "https://github.com/agabhane/puppeteer-pending-requests#readme",
+  "devDependencies": {
+    "@types/puppeteer": "^2.0.0",
+    "typescript": "^3.7.4"
+  }
+}
