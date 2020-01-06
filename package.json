@@ -1,6 +1,6 @@
 {
   "name": "@agabhane/puppeteer-pending-requests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wait for pending requests to finish in puppeteer",
   "main": "dist/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "xhr"
   ],
   "author": "ashishgabhane1@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/agabhane/puppeteer-pending-requests/issues"
   },

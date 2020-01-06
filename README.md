@@ -87,6 +87,7 @@ await Promise.all([
 Constructor function takes puppeterr page as paramter and returns instance
 
 **Params**
+
 | Name | Type | Default |  Description |
 | --- | --- | --- | --- |
 | page | Puppeteer Page Object |  | |
@@ -99,6 +100,7 @@ PuppeteerPendingRequests instance
 Wait for network to be idle for said time
 
 **Params**
+
 | Name | Type | Default |  Description |
 | --- | --- | --- | --- |
 | time | `number` | 100 | This will make function to wait for network to be idle for 100ms |
